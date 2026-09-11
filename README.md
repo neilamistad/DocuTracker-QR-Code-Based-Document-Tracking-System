@@ -4,7 +4,7 @@
 <summary><b>1. Login Page (Click to view)</b></summary>
 <br>
 
-![Desktop Demo](URL_NG_GIF_3)
+![Login Page Preview](https://github.com/user-attachments/assets/3b981aa2-a2a4-4fbf-962a-939e5bdf464d)
 </details> 
 
 <details>
